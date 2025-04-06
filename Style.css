@@ -1,0 +1,80 @@
+.gg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+color: aqua;
+}
+.ggg{
+    display: flex;
+    flex-direction: row;
+    justify-content: end;
+    align-items: end; 
+color: white;
+}
+body{
+    background: url(https://cdn.steamstatic.com/steamcommunity/public/images/items/434310/968854a71b2afe6dcd792700ca87727aca762e68.jpg);
+}
+.gggg{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+    color: aqua;
+}
+.wp{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+color: wheat;
+}
+.wpp{
+    float: left;
+    margin-top: 15px;
+    margin-right: 10px;
+    width: 400px;
+    height:400px;
+}
+.wwp{
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    
+    width: 400px;
+    height:400px;
+
+}
+.ggggg{
+    color: aqua;
+}
+.l{
+    float: left;
+    margin-top: 15px;
+    margin-right: 10px;
+    width: 400px;
+    height:400px;
+}
+.k{
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    
+    width: 400px;
+    height:400px; 
+}
+.d{
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    
+    width: 400px;
+    height:400px;  
+}
+.s{
+    margin-top: 15px;
+    margin-right: 10px;
+    
+    width: 400px;
+    height:400px;  
+}

@@ -1,0 +1,44 @@
+.d{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+color: wheat;
+}
+.dd{
+    color: wheat;
+}
+.ddd{
+   float: left;
+    margin-top: 15px;
+    margin-right: 10px;
+    width: 400px;
+    height:400px;
+}
+.dddd{
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    
+    width: 400px;
+    height:400px;
+}
+body{
+    background: url(https://cdn.steamstatic.com/steamcommunity/public/images/items/434310/968854a71b2afe6dcd792700ca87727aca762e68.jpg);
+}
+.s{
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    
+    width: 400px;
+    height:400px; 
+}
+.ss{
+    float: left;
+    margin-top: 15px;
+    margin-right: 10px;
+    
+    width: 600px;
+    height:400px;
+}

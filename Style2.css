@@ -1,0 +1,32 @@
+.a{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center; 
+color: wheat;
+}
+body{
+    background: url(https://cdn.steamstatic.com/steamcommunity/public/images/items/434310/968854a71b2afe6dcd792700ca87727aca762e68.jpg);
+}
+.d{
+    color: wheat;
+}
+.a{
+    color: wheat;
+}
+.q{
+    float: left;
+    margin-top: 15px;
+    margin-right: 10px;
+    
+    width: 600px;
+    height:600px;
+}
+.qq{
+    float: right;
+    margin-top: 15px;
+    margin-right: 10px;
+    
+    width: 600px;
+    height:600px; 
+}
